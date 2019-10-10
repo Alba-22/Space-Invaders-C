@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1561401615 source:d:\users\alba_\google drive\ufu\1º período\programação procedimental\trabalho_spaceinvaders\tentativascratch\spaceinv_v3\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<string.h>
+
+1215461608 d:\users\alba_\google drive\ufu\1º período\programação procedimental\trabalho_spaceinvaders\tentativascratch\spaceinv_v3\soil.h
+
+1562011137 source:d:\users\alba_\google drive\ufu\1º período\programação procedimental\trabalho_spaceinvaders\tentativascratch\spaceinv_v4\main.c
+	"SOIL.h"
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	<string.h>
+
+1215461608 d:\users\alba_\google drive\ufu\1º período\programação procedimental\trabalho_spaceinvaders\tentativascratch\spaceinv_v4\soil.h
+
